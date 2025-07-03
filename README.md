@@ -5,8 +5,6 @@
   
 <img src="./docs/Thumbnail.jpeg" alt="#" width="600px" height="350px">
 
-### <a href = "https://youtu.be/TQHRHdGpT70"> Click Here </a> to watch demo 
-
 <hr>
 
 #### Sign Language Translator enables the hearing impaired user to communicate efficiently in sign language, and the application will translate the same into text/speech. 
